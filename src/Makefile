@@ -1,6 +1,4 @@
 SHELL = /bin/zsh
-MAKEFLAGS += -r # for the task  tkd-% to work
-
 all : help
 
 clean: ##
